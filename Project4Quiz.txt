@@ -1,0 +1,4 @@
+What is the capital of Maryland:?Annapolis
+What city is located for the University of Maryland?:College Park
+"What sports league is the University of Maryland in?:Big 10
+What is the mascot of the University of Maryland?:Terrapins
