@@ -15,9 +15,9 @@ This option allows the user to make their own questions and answers and then sto
 
 How to use
 ----------
-The user will have to select if they want to take one of the pre-made quizzes (Prewritten_Quizzes_UMD.ipynb) or if they want to make their own quiz (Project 4- User builds quiz.ipynb).
+The user will have to select if they want to take one of the pre-made quizzes (FinalGoQuiz.ipynb) or if they want to make their own quiz (Project 4- User builds quiz.ipynb).
 
-1. **Prewritten Quizzes** will prompt the user to choose a quiz to take. Then the user will be given questions one by one.
+1. **Prewritten Quizzes (GoQuiz)** will prompt the user to choose a quiz to take. Then the user will be given questions one by one.
 2. The user will have to answer the question choosing between multiple choices using the keys A,B,C,D.
 3. The score to their quiz and how many they got wrong will be shown at the end of the quiz.
 
